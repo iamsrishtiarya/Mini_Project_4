@@ -87,6 +87,42 @@ Engineered insight-rich features such as:
 
 ---
 
+### 6. 🖥️ Application Development (Streamlit)
+- Interactive EDA visualizations
 
+  ![s1](https://github.com/user-attachments/assets/649277e9-52bf-46d4-92f4-c6102fc921ab)
+
+  
+
+- Input interface for real-time Primary Use prediction
+
+  ![s2](https://github.com/user-attachments/assets/a84c65fb-9baa-4a6a-9572-aa51e0acc811)
+- Clustering result visualization and user segmentation
+  ![c1](https://github.com/user-attachments/assets/2f61aa3d-4044-4b80-ac6f-0c825c493da3)
+  ![c2](https://github.com/user-attachments/assets/6cf568fb-92e5-49c8-b526-de8c78cb1c50)
+
+### 7. ☁️ Deployment
+- Deployed using Streamlit for web accessibility
+---
+
+## 🧰 Tech Stack
+
+| Category        | Tools/Libraries |
+|----------------|------------------|
+| Programming     | Python       |
+| Data Handling   | pandas, numpy    |
+| Visualization   | seaborn, matplotlib, plotly |
+| Machine Learning| scikit-learn, xgboost |
+| Clustering      | scipy, sklearn   |
+| Deployment      | Streamlit |
+
+---
+
+## 🧪 How to Run the Project Locally
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/SSaranya19/Decoding-Phone-Usage-Patterns-in-India.git
+cd Decoding-Phone-Usage-Patterns-in-India
 
 
